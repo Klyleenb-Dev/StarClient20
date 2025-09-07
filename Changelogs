@@ -1,0 +1,66 @@
+{
+    "changelog": [
+        {
+            "title": "Novos Mods Disponíveis no Star Client!",
+            "author": "Equipe StarClient",
+            "unixtime": 1752105400,
+            "body": "Apresentamos os mods que tornam o **Star Client** uma experiência única, trazendo ferramentas para facilitar sua jogabilidade, melhorar visuais e otimizar desempenho."
+        },
+        {
+            "title": "Armor HUD",
+            "author": "StarClient",
+            "unixtime": 1752105401,
+            "body": "Mostra as armaduras que você está usando, incluindo durabilidade e efeitos ativos, diretamente na tela para facilitar sua tomada de decisão durante o combate."
+        },
+        {
+            "title": "Keystrokes",
+            "author": "StarClient",
+            "unixtime": 1752105402,
+            "body": "Exibe as teclas que você está pressionando em tempo real, incluindo movimentos, ataques e saltos, permitindo melhor controle e análise de sua jogabilidade."
+        },
+        {
+            "title": "Fullbright",
+            "author": "StarClient",
+            "unixtime": 1752105403,
+            "body": "Ajusta a iluminação do jogo para que áreas escuras fiquem totalmente visíveis, ideal para explorar cavernas e minas sem precisar de tochas."
+        },
+        {
+            "title": "Xray",
+            "author": "StarClient",
+            "unixtime": 1752105404,
+            "body": "Destaca blocos específicos como diamante, ouro e esmeralda, facilitando a mineração eficiente e rápida. (Use com responsabilidade!)"
+        },
+        {
+            "title": "NameTags",
+            "author": "StarClient",
+            "unixtime": 1752105405,
+            "body": "Melhora a visualização dos nomes de jogadores no mundo, incluindo distância e cores personalizadas para melhor identificação de amigos e inimigos."
+        },
+        {
+            "title": "Tracers",
+            "author": "StarClient",
+            "unixtime": 1752105406,
+            "body": "Desenha linhas na tela apontando para outros jogadores ou mobs, ajudando a localizar rapidamente entidades importantes no ambiente."
+        },
+        {
+            "title": "FPS Boost",
+            "author": "StarClient",
+            "unixtime": 1752105407,
+            "body": "Otimizador de desempenho que melhora significativamente os FPS, reduzindo lag e aumentando a fluidez do jogo em PCs de qualquer configuração."
+        },
+        {
+            "title": "Toggle Sprint",
+            "author": "StarClient",
+            "unixtime": 1752105408,
+            "body": "Permite correr sem precisar segurar a tecla de sprint, tornando movimentos longos mais fáceis e confortáveis."
+        },
+        {
+            "title": "Auto Tool",
+            "author": "StarClient",
+            "unixtime": 1752105409,
+            "body": "Seleciona automaticamente a melhor ferramenta para minerar blocos, agilizando tarefas de mineração e construção."
+        },
+        {
+            "title": "Reach Display",
+            "author": "StarClient",
+            "unixtime": 17
