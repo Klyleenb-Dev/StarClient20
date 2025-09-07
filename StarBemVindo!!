@@ -1,0 +1,36 @@
+{
+    "news": [
+        {
+            "title": "Olá, seja muito bem-vindo ao Star Client 2.0!",
+            "Author": "Equipe StarClient",
+            "unixtime": 1752105300,
+            "subtitle": "Prepare-se para uma experiência incrível!",
+            "body": "Estamos muito felizes em recebê-lo no **Star Client 2.0**! Aqui você encontrará funcionalidades aprimoradas, novas atualizações e um ambiente pensado para oferecer a melhor experiência possível. Aproveite cada detalhe, explore todas as novidades e não se esqueça de compartilhar seu feedback conosco. Que sua jornada seja épica!",
+            "img": ""
+        },
+        {
+            "title": "Star Client 7.2 Lançado!",
+            "Author": "Time StarClient",
+            "unixtime": 1752105240,
+            "subtitle": "A mais nova versão do StarClient chegou.",
+            "body": "Com grande satisfação, anunciamos o lançamento oficial do **StarClient 7.2**! Gostaríamos de expressar nossa imensa gratidão a todos os testadores beta que contribuíram para o aprimoramento do cliente. Esperamos que vocês desfrutem da experiência otimizada que preparamos nesta versão.",
+            "img": ""
+        },
+        {
+            "title": "Beta Aberto do Star Client!",
+            "Author": "BreadCat",
+            "unixtime": 1734487980,
+            "subtitle": "StarClient disponível para testes públicos.",
+            "body": "É com entusiasmo que disponibilizamos o **StarClient em beta público**! Embora ainda possa haver ajustes a serem feitos, nos empenhamos para garantir uma experiência funcional e estável. Mal podemos esperar para ouvir o feedback de vocês e agradecemos imensamente por fazerem parte da comunidade Star.",
+            "img": ""
+        },
+        {
+            "title": "Novidades na Área de Notícias!",
+            "Author": "StarClient",
+            "unixtime": 1734183120,
+            "subtitle": "Fique por dentro das atualizações do Star.",
+            "body": "Estamos inaugurando nossa **nova seção de notícias**! Este será o canal oficial para comunicados importantes e atualizações sobre o desenvolvimento do StarClient, diretamente no aplicativo. Fique conectado para não perder nada!",
+            "img": ""
+        }
+    ]
+}
